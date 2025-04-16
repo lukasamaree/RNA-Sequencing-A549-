@@ -17,7 +17,7 @@ library(Seurat)
 library(magrittr)
 library(dplyr)
 
-setwd("~/Desktop/big_data_week_1/A549")
+setwd("~/Desktop/Lukas Amare/big_data_week_1/A549")
 
 # LOAD DATA AND MAKE SEURAT OBJECT
 
